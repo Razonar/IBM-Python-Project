@@ -1,2 +1,2 @@
-# IBM-Python-Project
+# IBM Python Project
 IBM Course
